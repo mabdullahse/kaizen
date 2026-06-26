@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 50" width="220" height="50">
+  <!-- Circular arrow / continuous improvement icon -->
+  <g transform="translate(4, 4)">
+    <circle cx="21" cy="21" r="19" fill="none" stroke="#4154f1" stroke-width="2.5"/>
+    <!-- Arrow arc suggesting continuous improvement -->
+    <path d="M21 6 A15 15 0 1 1 8 27" fill="none" stroke="#4154f1" stroke-width="2.8" stroke-linecap="round"/>
+    <!-- Arrowhead -->
+    <polygon points="5,22 12,27 8,33" fill="#4154f1"/>
+    <!-- K letter -->
+    <text x="14" y="28" font-family="Poppins, sans-serif" font-weight="700" font-size="18" fill="#4154f1">K</text>
+  </g>
+  <!-- Company name -->
+  <text x="54" y="28" font-family="Poppins, sans-serif" font-weight="700" font-size="20" fill="#012970">Kaizen</text>
+  <text x="122" y="28" font-family="Poppins, sans-serif" font-weight="300" font-size="20" fill="#4154f1"> Soft</text>
+  <!-- Tagline -->
+  <text x="54" y="42" font-family="Poppins, sans-serif" font-weight="400" font-size="9" fill="#6c757d" letter-spacing="1">CONTINUOUS IMPROVEMENT</text>
+</svg>
